@@ -13,9 +13,7 @@ sections:
     content:
       username: admin
       text: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+
     design:
       background:
         gradient_mesh:
