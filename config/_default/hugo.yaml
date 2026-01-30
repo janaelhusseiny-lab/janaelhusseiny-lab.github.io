@@ -2,7 +2,7 @@
 title: Jana El Husseiny Lab
 
 # The URL of your site (make sure it has the / at the end)
-baseURL: 'https://janaelhusseiny-lab.github.io/'
+baseURL: 'https://jana-elhusseiny.github.io/'
 
 # This is the "brain" that connects to Hugo Blox
 module:
