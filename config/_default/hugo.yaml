@@ -8,3 +8,18 @@ baseURL: 'https://jana-elhusseiny.github.io/'
 module:
   imports:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+# === ADD THIS SECTION BELOW ===
+params:
+  
+  # Force light theme (or use "night" for dark)
+  color_mode: "night"
+  
+  # Optional: Also remove any other appearance toggles
+  appearance:
+    theme_selector: false
+    
+  # Optional: Set a specific theme color
+  theme:
+    primary: "#2C3E50"  # Professional dark blue
+    secondary: "#3498DB" # Accent blue
